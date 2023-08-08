@@ -7,7 +7,7 @@
 		<Metadata name="CommonModule.Пактум_Сервер.Module" id="9a93c767-2f35-4b3e-b07c-7344f832ed1b.0" configVersion="8efe302c810bbfa63f1318828c187108fe6c3723"/>
 		<Metadata name="CommonModule.Пактум_ФоновыеЗадания" id="7875c238-5a76-475d-b088-53643b9c1c2e" configVersion="0c32bf34073c91cf22305de8fad03a2ed9648d2a"/>
 		<Metadata name="CommonModule.Пактум_ФоновыеЗадания.Module" id="7875c238-5a76-475d-b088-53643b9c1c2e.0" configVersion="eeed23b1e27785e1ed4b62cd9dbeb1b005f3d3cb"/>
-		<Metadata name="Configuration.БА_Пактум_Контрагент" id="f776eeb7-a562-4579-85c1-06c7de925648" configVersion="8cfe7769746274c3dd4b8b74a0ca08424e1a16ce"/>
+		<Metadata name="Configuration.sabatexPactumContragent" id="f776eeb7-a562-4579-85c1-06c7de925648" configVersion="d0c8a22c97303624596a8ad360980c58003b2afa"/>
 		<Metadata name="Language.Украинский" id="422a6cc1-4692-4290-bb03-09de55c033a3" configVersion="e07d99208e57718eb6db6c3395b72aa603fb69a0"/>
 		<Metadata name="StyleItem.НадписьПоясняющаяГиперссылку" id="4f6ccd5b-40e3-415f-8f44-765425fccc45" configVersion="013dcc27b753b57fcfa46276d6732cc78cfba9a6"/>
 		<Metadata name="StyleItem.ТекстПредопределенногоЗначения" id="82180312-149e-4f3a-84c3-91eeeb971206" configVersion="1638c7edb65e79b1a10b411ded355ce40e4d9de1"/>

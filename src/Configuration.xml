@@ -28,18 +28,18 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>БА_Пактум_Контрагент</Name>
+			<Name>sabatexPactumContragent</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Б а пактум контрагент</v8:content>
+					<v8:content>Sabatex pactum contragent</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
-			<NamePrefix>БА_ПА_</NamePrefix>
+			<NamePrefix>sabatex</NamePrefix>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_12</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
 			<UsePurposes>
@@ -50,15 +50,30 @@
 			<Version>1.0.0.1</Version>
 			<DefaultLanguage>Language.Украинский</DefaultLanguage>
 			<BriefInformation/>
-			<DetailedInformation/>
+			<DetailedInformation>
+				<v8:item>
+					<v8:lang>uk</v8:lang>
+					<v8:content>Адаптація сервіса Пактум.Контрагент для роботи під операційною системою linux</v8:content>
+				</v8:item>
+			</DetailedInformation>
 			<Copyright>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
 					<v8:content>Serhiy Lakas</v8:content>
 				</v8:item>
 			</Copyright>
-			<VendorInformationAddress/>
-			<ConfigurationInformationAddress/>
+			<VendorInformationAddress>
+				<v8:item>
+					<v8:lang>uk</v8:lang>
+					<v8:content>https://github.com/sabatex/Pactum</v8:content>
+				</v8:item>
+			</VendorInformationAddress>
+			<ConfigurationInformationAddress>
+				<v8:item>
+					<v8:lang>uk</v8:lang>
+					<v8:content>https://github.com/sabatex/Pactum</v8:content>
+				</v8:item>
+			</ConfigurationInformationAddress>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
