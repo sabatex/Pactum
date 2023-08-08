@@ -1,2 +1,2 @@
 # Pactum 
-### Адаптація сервіса Pactum для підтримки Linux Server
+### Адаптація сервіса [Pactum](https://pactumsys.com/) для підтримки Linux Server
